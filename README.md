@@ -16,17 +16,5 @@ A Tetris clone in Python. Tkinter used for graphics.
 * **Game Over** - Not happy how I end the game. Testing the board level instance variable for a string ("Game Over") seems really awkward.
 * **Long** - Code is overly verbose.
 
-## Install
-There are a few different ways you can install pyechonest:
-
-* Use setuptools: `easy_install -U pyechonest`
-* Download the zipfile from the [releases](https://github.com/echonest/pyechonest/releases) page and install it. 
-* Checkout the source: `git clone git://github.com/echonest/pyechonest.git` and install it yourself.
-
-Stuff to do:
-```python
-    from pyechonest import config
-    config.ECHO_NEST_API_KEY="YOUR API KEY"
-```
-
--![alt text](http://media.giphy.com/media/Odnr4cLZA3iqA/giphy.gif "Frustrated cat can't believe this is the 12th time he's clicked on an auto-linked README.md URL")
+## Over Tetris...
+![alt text](http://media.giphy.com/media/Odnr4cLZA3iqA/giphy.gif "Frustrated cat can't believe this is the 12th time he's clicked on an auto-linked README.md URL")
