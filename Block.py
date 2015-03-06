@@ -1,6 +1,6 @@
 #Individual Block
-#Assumes itself as a relative center block unless 
-#a specific center_block is passed  
+#A relative center block (used for rotation) can be passed 
+#If no center block is passed, the block as it's own center block  
 
 class Block(object):
 
@@ -12,8 +12,7 @@ class Block(object):
 		#Block id, intended use for tkinter 
 		self.id = None
 		
-		#An optional relative center block
-		#Used for rotation
+		#Center block
 		self.center = center_block if center_block else self
 	
 	
