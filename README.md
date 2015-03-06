@@ -16,5 +16,5 @@ A Tetris clone in Python. Tkinter used for graphics.
 * **Game Over** - Not happy how I end the game. Testing the board level instance variable for a string ("Game Over") seems really awkward.
 * **Long** - Code is overly verbose.
 
-## Over Tetris...
+#### Over Tetris...
 ![alt text](http://media.giphy.com/media/Odnr4cLZA3iqA/giphy.gif "Frustrated cat can't believe this is the 12th time he's clicked on an auto-linked README.md URL")
